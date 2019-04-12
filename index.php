@@ -1,4 +1,4 @@
 <?php
-	echo "Master branch";
+	echo "Dev branch";
 	phpinfo();
 ?>
